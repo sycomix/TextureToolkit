@@ -7,4 +7,6 @@ You need to add a DeepAI APIKey to use this but it is free.
 
 
 # Setup
-Open the Projekt in your Visual Studio and Start the programm.
+Open the Projekt in your Visual Studio and start the programm.
+
+
